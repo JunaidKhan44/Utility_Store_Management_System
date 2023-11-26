@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\C++\Store_Managment_System\Source.cpp(144,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\C++\Store_Managment_System\Source.cpp(251,2): error C4996: 'flushall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _flushall. See online help for details.
+E:\C++\Store_Managment_System\Source.cpp(194,9): warning C4101: 'b': unreferenced local variable
+E:\C++\Store_Managment_System\Source.cpp(195,10): warning C4101: 'official': unreferenced local variable
+E:\C++\Store_Managment_System\Source.cpp(195,7): warning C4101: 't': unreferenced local variable
+E:\C++\Store_Managment_System\Source.cpp(194,17): warning C4101: 'd': unreferenced local variable
